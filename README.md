@@ -1,21 +1,19 @@
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm Danish Ahmed Darga 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+Pollutiion Monitoring System - We have designed an approach that constantly monitors the pollution levels all over the country and notifies the authorities if the levels par the threshold index.
 
 ## 🚀 Skills
 - C++, Python, JavaScript
 - Data Structures and Algorithms
-- Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [GitHub](https://github.com/Danish-Ahmed-Darga)
+- [LinkedIn](www.linkedin.com/in/danish-ahmed-darga-0b3009246)
 
 ## Portfolio Topic
 
