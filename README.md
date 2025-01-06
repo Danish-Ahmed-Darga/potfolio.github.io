@@ -13,7 +13,7 @@ Pollution Monitoring System - We have designed an approach that constantly monit
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/Danish-Ahmed-Darga)
-- [LinkedIn](www.linkedin.com/in/danish-ahmed-darga-0b3009246)
+- [LinkedIn](https://www.linkedin.com/in/danish-ahmed-darga-0b3009246)
 
 ## Portfolio Topic
 
