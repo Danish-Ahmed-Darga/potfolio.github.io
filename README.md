@@ -7,6 +7,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 ## 🛠️ Projects
 Pollution Monitoring System - We have designed an approach that constantly monitors the pollution levels all over the country and notifies the authorities if the levels par the threshold index.
 
+## View Project
+
 ## 🚀 Skills
 - C++, Python, JavaScript
 - Data Structures and Algorithms
