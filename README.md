@@ -5,7 +5,7 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-Pollutiion Monitoring System - We have designed an approach that constantly monitors the pollution levels all over the country and notifies the authorities if the levels par the threshold index.
+Pollution Monitoring System - We have designed an approach that constantly monitors the pollution levels all over the country and notifies the authorities if the levels par the threshold index.
 
 ## 🚀 Skills
 - C++, Python, JavaScript
@@ -25,13 +25,13 @@ Pollutiion Monitoring System - We have designed an approach that constantly moni
 <dt>Name</dt>
 <dd>Your Name</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
-<dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>02FE23BCS095</dd>
+<dt>Course Instructo</dt>
+<dd>Vaishali Parab Maam</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLE Technological University</dd>
 <dt>Portfolio Topic/Domain</dt>
-<dd>Google</dd>
+<dd>Pollution Monitoring System</dd>
 </dl>
 
 <br> 
