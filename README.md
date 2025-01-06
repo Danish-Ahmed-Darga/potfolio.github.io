@@ -31,7 +31,7 @@ Pollution Monitoring System - We have designed an approach that constantly monit
 <dt>Course Code</dt>
 <dd>Course Code Placeholder</dd>
 <dt>Name</dt>
-<dd>Danish Ahmed Darga</dd>
+<dd><p style="color: red;">Danish Ahmed Darga</p></dd>
 <dt>SRN</dt>
 <dd>02FE23BCS095</dd>
 <dt>Course Instructo</dt>
